@@ -1,0 +1,6 @@
+{
+  "name": "Dayflow HRMS",
+  "description": "Intelligent Human Resource Management System with attendance tracking, working hour analysis, performance engine, leave, payroll, and QR identification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
